@@ -11,8 +11,9 @@ PHP 프로그래밍 언어를 학습하기 전에 아래와 같은 언어에 대
 PHP(Hyper Preprocessor)는 아래 소스와 같이 HTML 언어를 포함할 수 있고, 웹 개발에 특화된 널리 사용되는 오픈소스 스크립터 언어이다.
 ```php
 <!DOCTYPE html>
-<html>
+<html lang="ko">
     <head>
+        <meta charset="UTF-0"/>
         <title>예제</title>
     </head>
     <body>

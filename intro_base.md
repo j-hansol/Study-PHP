@@ -30,4 +30,5 @@ PHP(Hyper Preprocessor)는 아래 소스와 같이 HTML 언어를 포함할 수 
 * 부족하지만 **데스크탑 응용프로그램도 작성 가능하다.** PHP-GTK를 사용하면 다른 프로그램언어에 비해 매우 부족한 감은 있지만 그래픽 사용자 인터페이스(GUI) 프로그래밍이 가능하다.
 
 **PHP는 다양한 운영체제를 지원한다.** Linux, 많은 Unix 변종(HP-UX, Solaris 및 OpenBSD 포함), Microsoft Windows, macOS, RISC OS 등에서 PHP를 사용할 수 있다.
+
 **PHP는 대부분의 웹서버를 지원한다.**  Apache, IIS가 대표적이다. 그리고 ighttpd 및 nginx와 같이 FastCGI PHP 바이너리를 사용할 수 있는 모든 웹 서버도 포함된다. 이들은 CGI 또는 FCGI 방식으로 실행된다.
